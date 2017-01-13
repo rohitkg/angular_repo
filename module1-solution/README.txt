@@ -1,0 +1,1 @@
+solution to module 1 of Coursera AngularJS course by John Hopkins
